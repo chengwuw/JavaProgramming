@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Section3/ByteShortIntLong/ByteShortIntLong.iml" filepath="$PROJECT_DIR$/Section3/ByteShortIntLong/ByteShortIntLong.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section3/CharAndBoolean/CharAndBoolean.iml" filepath="$PROJECT_DIR$/Section3/CharAndBoolean/CharAndBoolean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FloatAndDouble/FloatAndDouble.iml" filepath="$PROJECT_DIR$/FloatAndDouble/FloatAndDouble.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section3/KeywordsAndExpressions/KeywordsAndExpressions.iml" filepath="$PROJECT_DIR$/Section3/KeywordsAndExpressions/KeywordsAndExpressions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section4/Methods/Methods.iml" filepath="$PROJECT_DIR$/Section4/Methods/Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section4/MethodsChallenge/MethodsChallenge.iml" filepath="$PROJECT_DIR$/Section4/MethodsChallenge/MethodsChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section3/Operators/Operators.iml" filepath="$PROJECT_DIR$/Section3/Operators/Operators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section3/PrimitiveTypesChallenge/PrimitiveTypesChallenge.iml" filepath="$PROJECT_DIR$/Section3/PrimitiveTypesChallenge/PrimitiveTypesChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/SourceCode.iml" filepath="$PROJECT_DIR$/.idea/SourceCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section3/StatementsWhiteSpaceAndIndenting/StatementsWhiteSpaceAndIndenting.iml" filepath="$PROJECT_DIR$/Section3/StatementsWhiteSpaceAndIndenting/StatementsWhiteSpaceAndIndenting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section3/Strings/Strings.iml" filepath="$PROJECT_DIR$/Section3/Strings/Strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section4/java-masterclass-28-insert-after-method-challenge/java-masterclass-28-insert-after-method-challenge.iml" filepath="$PROJECT_DIR$/Section4/java-masterclass-28-insert-after-method-challenge/java-masterclass-28-insert-after-method-challenge.iml" />
+    </modules>
+  </component>
+</project>
