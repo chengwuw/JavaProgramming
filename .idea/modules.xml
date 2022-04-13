@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SourceCode/Section3/ByteShortIntLong/ByteShortIntLong.iml" filepath="$PROJECT_DIR$/SourceCode/Section3/ByteShortIntLong/ByteShortIntLong.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SourceCode/Section3/CharAndBoolean/CharAndBoolean.iml" filepath="$PROJECT_DIR$/SourceCode/Section3/CharAndBoolean/CharAndBoolean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SourceCode/Section4/Exercise/Exercise.iml" filepath="$PROJECT_DIR$/SourceCode/Section4/Exercise/Exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SourceCode/FloatAndDouble/FloatAndDouble.iml" filepath="$PROJECT_DIR$/SourceCode/FloatAndDouble/FloatAndDouble.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaProgramming.iml" filepath="$PROJECT_DIR$/.idea/JavaProgramming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SourceCode/Section3/KeywordsAndExpressions/KeywordsAndExpressions.iml" filepath="$PROJECT_DIR$/SourceCode/Section3/KeywordsAndExpressions/KeywordsAndExpressions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SourceCode/Section4/Methods/Methods.iml" filepath="$PROJECT_DIR$/SourceCode/Section4/Methods/Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SourceCode/Section4/MethodsChallenge/MethodsChallenge.iml" filepath="$PROJECT_DIR$/SourceCode/Section4/MethodsChallenge/MethodsChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SourceCode/Section3/Operators/Operators.iml" filepath="$PROJECT_DIR$/SourceCode/Section3/Operators/Operators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SourceCode/Section3/PrimitiveTypesChallenge/PrimitiveTypesChallenge.iml" filepath="$PROJECT_DIR$/SourceCode/Section3/PrimitiveTypesChallenge/PrimitiveTypesChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SourceCode/Section5/Section5.iml" filepath="$PROJECT_DIR$/SourceCode/Section5/Section5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SourceCode/Section3/StatementsWhiteSpaceAndIndenting/StatementsWhiteSpaceAndIndenting.iml" filepath="$PROJECT_DIR$/SourceCode/Section3/StatementsWhiteSpaceAndIndenting/StatementsWhiteSpaceAndIndenting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SourceCode/Section3/Strings/Strings.iml" filepath="$PROJECT_DIR$/SourceCode/Section3/Strings/Strings.iml" />
+    </modules>
+  </component>
+</project>
