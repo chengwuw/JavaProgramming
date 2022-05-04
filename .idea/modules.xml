@@ -4,7 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/SourceCode/Section3/ByteShortIntLong/ByteShortIntLong.iml" filepath="$PROJECT_DIR$/SourceCode/Section3/ByteShortIntLong/ByteShortIntLong.iml" />
       <module fileurl="file://$PROJECT_DIR$/SourceCode/Section3/CharAndBoolean/CharAndBoolean.iml" filepath="$PROJECT_DIR$/SourceCode/Section3/CharAndBoolean/CharAndBoolean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SourceCode/Section6OOPClassConstructorInheritance/Constructor/Constructor.iml" filepath="$PROJECT_DIR$/SourceCode/Section6OOPClassConstructorInheritance/Constructor/Constructor.iml" />
       <module fileurl="file://$PROJECT_DIR$/SourceCode/Section4/Exercise/Exercise.iml" filepath="$PROJECT_DIR$/SourceCode/Section4/Exercise/Exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SourceCode/Section5/Exercise27InputCalculator/Exercise27InputCalculator.iml" filepath="$PROJECT_DIR$/SourceCode/Section5/Exercise27InputCalculator/Exercise27InputCalculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/SourceCode/FloatAndDouble/FloatAndDouble.iml" filepath="$PROJECT_DIR$/SourceCode/FloatAndDouble/FloatAndDouble.iml" />
       <module fileurl="file://$PROJECT_DIR$/SourceCode/Section5/ForStatement/ForStatement.iml" filepath="$PROJECT_DIR$/SourceCode/Section5/ForStatement/ForStatement.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/JavaProgramming.iml" filepath="$PROJECT_DIR$/.idea/JavaProgramming.iml" />

@@ -3,9 +3,7 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
-      <sourceFolder url="file://$MODULE_DIR$/ExerciseSec5/NumberInWord/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Switch/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/ReadUserInputChallenge/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
